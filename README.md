@@ -46,6 +46,7 @@ You can use the `-f` (or `--find`) with keyword to search cryptocurrencies.
 ```
 $ coinmon -f btc // search coins included keyword btc
 $ coinmon -f eth // search coins included keyword eth
+$ coinmon -f btc,eth // search coins included keyword btc or eth
 ```
 
 You can use the `-t` (or `--top`) with the index to find the top n cryptocurrencies ranked by their market cap.
